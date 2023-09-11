@@ -1,12 +1,16 @@
-version: '1.0'
+version: 1.0.1
 history:
+  1.0.1:
+    date: '2023-09-11'
+    title: Versions
+    description: 'Versions update.'
   '1.0':
     date: '2018-11-27'
     description: 'First version.'
 plugin:
   -
     name: wf/array
-    version: 1.2.0
+    version: 1.5.0
 sys:
   -
     name: mercury
